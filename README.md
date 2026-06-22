@@ -2,8 +2,8 @@
 
 [![Github](https://img.shields.io/github/followers/jaceklaskowski?label=Follow&style=social)](https://github.com/jaceklaskowski)
 
-- 🌱 I’m currently learning [Python](https://gist.github.com/jaceklaskowski/cf4e82638d2bb459d922df6889c95f8b) (following a few open source projects like [dbt-core](https://github.com/dbt-labs/dbt-core) and [Dask](https://github.com/dask/dask))
-- 💬 Ask me about [Apache Spark](https://books.japila.pl/spark-sql-internals/), [Delta Lake](https://books.japila.pl/delta-lake-internals/), [Databricks](https://www.databricks.com/product/data-lakehouse) and [Apache Kafka](https://books.japila.pl/kafka-internals/)
+- 🌱 Into more Python and [LangChain](https://www.langchain.com/)
+- 💬 Ask me anything about [Apache Spark](https://books.japila.pl/spark-sql-internals/), [Delta Lake](https://books.japila.pl/delta-lake-internals/), [MLflow](https://mlflow.org/), [Databricks](https://github.com/jaceklaskowski/learn-databricks), [Unity Catalog](https://books.japila.pl/unity-catalog-internals/)
 - 📫 Reach me at jacek@japila.pl
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Loves stretching (and working out for [Van Damme Split](https://www.google.com/search?q=van+damme+splits) 💪)
@@ -30,6 +30,6 @@
 </a>
 <!-- Dark Mode -->
 <a href="https://www.linkedin.com/in/jaceklaskowski#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+<img src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
 </div>
